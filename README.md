@@ -53,7 +53,7 @@ Launch Windows EC2 instance and connect using RDP.
 ## OUTPUT
 
 ## S3 Bucket:
-![cloud selva](https://github.com/user-attachments/assets/c25ac0e0-e7dc-4f3b-b14e-fd49f1fe07e7)
+![cloud bala](https://github.com/user-attachments/assets/c18176d6-72a5-4c5b-938b-7a985b18ab7c)
 
 
 ## LINUX Instance:
